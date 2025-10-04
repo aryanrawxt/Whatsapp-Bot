@@ -15,4 +15,8 @@
     "ws": "^8.18.3",
     "yt-dlp-exec": "^1.0.2"
   }
+},
+  "scripts": {
+    "start": "node index.js"
+  }
 }
